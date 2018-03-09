@@ -1,0 +1,54 @@
+_repo: Tonio-Kr-ger_23313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
+description: "Tonio Kröger is a novella by Thomas Mann, written early in 1901, when\
+  \ he was 25. It was first published in 1903. A. A. Knopf in New York published the\
+  \ first American edition in 1936, translated by Helen Tracy Lowe-Porter.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23313'
+  wikidata: Q692988
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denmark -- Fiction'
+- !lcsh 'Germany, Northern -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Munich (Germany) -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- GITenberg
+title: Tonio Kröger
+url: http://www.gutenberg.org/ebooks/23313
+wikipedia:
+- https://fi.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://fr.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D9%8A%D9%88_%D9%83%D8%B1%D9%88%D8%AC%D8%B1
+- https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%E5%A5%A5%C2%B7%E5%85%8B%E5%BE%8B%E6%A0%BC
+- https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%8B%E3%82%AA%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%AC%E3%83%BC
+- https://cs.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%DB%8C%D9%88_%DA%A9%D8%B1%D9%88%DA%AF%D8%B1
+- https://de.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://da.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://en.wikiquote.org/wiki/Tonio_Kr%C3%B6ger
+- https://en.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://it.wikipedia.org/wiki/Tonio_Kr%C3%B6ger
+- https://uk.wikiquote.org/wiki/%D0%A2%D0%BE%D0%BD%D1%96%D0%BE_%D0%9A%D1%80%D0%B5%D0%B3%D0%B5%D1%80
+- https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BD%CE%B9%CE%BF_%CE%9A%CF%81%CE%AD%CE%B3%CE%BA%CE%B5%CF%81
+- https://ca.wikipedia.org/wiki/T%C3%B3nio_Kr%C3%B6ger
+- https://hu.wikipedia.org/wiki/Tonio_Kr%C3%B6ger_(elbesz%C3%A9l%C3%A9s)
+- https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9A%D1%80%D0%B5%D0%B3%D0%B5%D1%80
