@@ -18,6 +18,8 @@ description: "Tonio Kröger is a novella by Thomas Mann, written early in 1901, 
   \ he was 25. It was first published in 1903. A. A. Knopf in New York published the\
   \ first American edition in 1936, translated by Helen Tracy Lowe-Porter.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23313#Tonio-Kr-ger
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-11-04'
 gutenberg_type: Text
